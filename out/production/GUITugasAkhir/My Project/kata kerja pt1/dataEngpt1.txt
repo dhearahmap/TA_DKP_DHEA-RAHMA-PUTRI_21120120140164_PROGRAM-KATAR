@@ -1,0 +1,100 @@
+sleep		tidur
+stand up	berdiri
+sit down	duduk
+walk		berjalan
+eat		makan
+drink		minum
+write		menulis
+read		membaca
+wash		mencuci
+work		bekerja
+come		datang
+get up		bangun
+wake up		membangunkan
+take a bath	mandi
+take a pee	kencing
+take a dump	buang air besar
+speak		berbicara
+talk		bercakap-cakap
+think		berpikir
+tell		menceritakan
+listen		mendengarkan
+wear		memakai, menggunakan
+use		menggunakan
+want		menginginkan
+go		pergi
+call		memanggil, menelpon
+go work		pergi kerja
+go home		pulang
+go shopping	belanja
+date		pacaran
+understand	mengerti
+cough		batuk
+cook		memasak
+fry		menggoreng
+buy		membeli
+sell		menjual
+pay		membayar
+open		membuka
+close		menutup
+give		memberi
+have		memiliki
+pound		mengetuk
+throw		melemparkan, membuang
+show		menunjukkan
+decrease	mengurangi
+add		menambahkan
+cut		memotong
+connect		menghubungkan
+arrive		tiba
+leave		berangkat, meninggalkan
+remember	mengingat
+reminder	mengingatkan
+ask		bertanya
+answer		menjawab
+need		membutuhkan
+dream put	bermimpi
+smile		meletakkan
+scream		tersenyum
+shout		teriak-teriak
+cry		berteriak
+laugh		menangis
+live		tertawa
+pray		hidup
+push		berdo'a, beribadah
+pull		mendorong
+teach		menarik
+study		mengajar
+learn		belajar
+wait		belajar
+help		menunggu
+tun		menolong
+swim		berlari, menjalankan
+meet		berenang
+drive		bertemu
+ride		mengendarai (mobil)
+borrow		mengendarai (motor)
+lend		meminjam
+return		meminjamkan
+find		mengembalikan
+hide		menemukan
+disturb		menyembunyikan
+motivate	mengganggu
+see		memotivasi
+look for	melihat
+look at		mencari
+clean		melihat
+sweep		membersihkan
+mop		menyapu
+paint		mengepel
+visit		mengecat
+invite		mengunjungi
+stay up		mengundang, mengajak
+make		begadang
+save		membuat
+move		menyimpan
+face		bergerak, memindahkan
+imagine		menghadapi
+dance		membayangkan
+dance		menari
+

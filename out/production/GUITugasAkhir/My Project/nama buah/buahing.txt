@@ -1,0 +1,101 @@
+ambarella
+apple
+apricot
+avocado
+banana
+bell pepper
+black sapote
+blackberry
+blackcurrant
+blueberry
+bread fruit
+cantaloupe
+cherimoya
+cherry
+chico fruit
+chili pepper
+clementine
+coconut
+corn
+crab apples
+cranberry
+cucumber
+custard apple
+currant
+dates
+dragonfruit
+durian
+eggplant
+elderberry
+feijoa
+fig
+goji berry
+gooseberry
+grape
+grapefruit
+guava
+honeyberry
+jabuticaba
+jackfruit
+jambul
+japanese plum
+jicama
+jujube
+kiwano
+kiwifruit
+kumquat
+lemon
+lime
+longan
+lychee
+mandarin orange
+mango
+mangosteen
+marionberry
+melon
+miracle fruit
+mulberry
+olive
+orange
+papaya
+passion fruit
+peach
+pear
+persimmon
+pineapple
+pineberry
+plantain
+plum
+pluot
+pomegranate
+pomelo
+prune
+pumpkin
+purple mangosteen
+quince
+raisin
+rambutan
+raspberry
+redcurrant
+snake fruit
+salal berry
+salmonberry
+sapodilla
+satsuma
+soursop
+squash
+star apple
+star fruit
+strawberry
+surinam cherry
+tamarillo
+tamarind
+tangerine
+tomato
+ugli fruit
+watermelon
+white currant
+white sapote
+yuzu
+zucchini
+
